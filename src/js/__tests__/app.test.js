@@ -1,3 +1,3 @@
 test('should return...', () => {
-  expect(true).toBe(true);
+  expect(42).toBe(42);
 });
